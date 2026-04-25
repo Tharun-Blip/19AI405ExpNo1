@@ -80,3 +80,9 @@ agent = MedicinePrescribingAgent()
 agent.run_agent(cycles=4)  # run for 6 iterations
 print("Final Performance Score:", agent.performance)
 ```
+## Output:
+<img width="889" height="569" alt="image" src="https://github.com/user-attachments/assets/a84cf4e1-6903-4d59-8cf8-474b76d92508" />
+
+## Result:
+PEAS description for the given AI problem and develop an AI agent was observed successfully.
+
